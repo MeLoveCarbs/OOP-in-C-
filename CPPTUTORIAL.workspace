@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPTUTORIAL" Database="" Version="10.0.0">
+  <Project Name="Mini_coding_exercises" Path="Test1/Test1.project" Active="No"/>
+  <Project Name="Understanding_constructors" Path="Projectexample/Projectexample.project" Active="No"/>
+  <Project Name="Practice_movie" Path="Practice/Practice.project" Active="No"/>
+  <Project Name="Mystring_Class_practice" Path="Mystring_practice/Mystring_practice.project" Active="No"/>
+  <Project Name="Braces_Correctness" Path="Practice__/Practice__.project" Active="No"/>
+  <Project Name="Mystring-copy-assignment" Path="Debug_practice_operators/Mystring-copy-assignment/Mystring-copy-assignment.project" Active="No"/>
+  <Project Name="Mystring-operator-functions" Path="Debug_practice_operators/Mystring-operator-functions/Mystring-operator-functions.project" Active="No"/>
+  <Project Name="Mystring-insertion-extraction" Path="Debug_practice_operators/Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="No"/>
+  <Project Name="Operator_overload_challenge" Path="Operator_overloading/Operator_overloading.project" Active="No"/>
+  <Project Name="_Game" Path="_Game/_Game.project" Active="No"/>
+  <Project Name="Inherit_challenge" Path="Section15/Challenge/Challenge.project" Active="No"/>
+  <Project Name="BaseClassReferences" Path="Section16/BaseClassReferences/BaseClassReferences.project" Active="No"/>
+  <Project Name="Polymorhpism_Challenge" Path="Section16/Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Challenge_SmartPtr" Path="Section17/Challenge/Challenge_SmartPtr.project" Active="No"/>
+  <Project Name="Challenge_Exception" Path="Section18/Challenge/Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Mini_coding_exercises" ConfigName="Debug"/>
+      <Project Name="Understanding_constructors" ConfigName="Debug"/>
+      <Project Name="Practice_movie" ConfigName="Debug"/>
+      <Project Name="Mystring_Class_practice" ConfigName="Debug"/>
+      <Project Name="Braces_Correctness" ConfigName="Debug"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Debug"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Debug"/>
+      <Project Name="Operator_overload_challenge" ConfigName="Debug"/>
+      <Project Name="_Game" ConfigName="Debug"/>
+      <Project Name="Inherit_challenge" ConfigName="Debug"/>
+      <Project Name="BaseClassReferences" ConfigName="Debug"/>
+      <Project Name="Polymorhpism_Challenge" ConfigName="Debug"/>
+      <Project Name="Challenge_SmartPtr" ConfigName="Debug"/>
+      <Project Name="Challenge_Exception" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Mini_coding_exercises" ConfigName="Release"/>
+      <Project Name="Understanding_constructors" ConfigName="Release"/>
+      <Project Name="Practice_movie" ConfigName="Release"/>
+      <Project Name="Mystring_Class_practice" ConfigName="Release"/>
+      <Project Name="Braces_Correctness" ConfigName="Release"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Release"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Release"/>
+      <Project Name="Operator_overload_challenge" ConfigName="Release"/>
+      <Project Name="_Game" ConfigName="Release"/>
+      <Project Name="Inherit_challenge" ConfigName="Release"/>
+      <Project Name="BaseClassReferences" ConfigName="Release"/>
+      <Project Name="Polymorhpism_Challenge" ConfigName="Release"/>
+      <Project Name="Challenge_SmartPtr" ConfigName="Release"/>
+      <Project Name="Challenge_Exception" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
