@@ -1,4 +1,4 @@
-# OOP-in-C-
+# OOP-in-C++
 This repo contains useful information regarding OOP in C++:
 Default constructors, destructors, overloaded ctors, dtors used in class design
 Operators overloading, ostream, istream ctors
